@@ -1,0 +1,48 @@
+#test {
+    display: inline-block;
+    line-height: 16px;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    color: gold;
+    text-align: center;
+    border: dotted;
+}
+
+#minecraft {
+    width: 300px;
+    display: inline-block;
+}
+
+#steam , #fortnite{
+    position: relative;
+    width: 300px;
+    display: inline-block;
+}
+
+#rainbow {
+    position: relative;
+    width: px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+#stream {
+    color: silver;
+    text-align: center;
+    text-align: center;
+    width: 100%;
+    height: -10px;
+    border: solid;
+    margin: auto;
+}
+
+#streamer {
+    margin: auto;
+}
+
+#jinu, #wak, #pyeo {
+    position: relative;
+    width: 300px;
+    display: inline-block;
+}
